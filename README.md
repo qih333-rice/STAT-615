@@ -106,7 +106,7 @@ Run the script file **`regression_code.R`** in **RStudio** or another R environm
 
 ### 4. View the Outputs
 After running the script, you will obtain the following outputs
-  Scatter Plots**: Visualize relationships between predictors and DO levels.
+  Scatter Plots: Visualize relationships between predictors and DO levels.
     Regression Results: Summaries of linear, logistic, and Lasso models.
     ROC Curves: Compare model performance using AUC metrics.
     Boxplots: Show seasonal variations in DO levels.
